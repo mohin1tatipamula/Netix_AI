@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Karan Ahuja",
+      "type": 1
+    },
+    {
+      "name": "Suraj Singh",
+      "type": 0
+    },
+    {
+      "name": "Priyanka Arora",
+      "type": 1
+    },
+    {
+      "name": "Harsh Vij",
+      "type": 0
+    },
+    {
+      "name": "Akash Chopra",
+      "type": 1
+    },
+    {
+      "name": "Ankita Pal",
+      "type": 0
+    },
+    {
+      "name": "Amandeep Pooni",
+      "type": 1
+    }
+  ]
+}
